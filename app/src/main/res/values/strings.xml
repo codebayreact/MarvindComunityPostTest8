@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MarvindComunity</string>
+    <string name="image">Image</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="register"> Register </string>
+    <string name="input_email"> Input Email </string>
+    <string name="login"> Login </string>
+    <string name="i_have_account">I Have Account</string>
+    <string name="no_have_account">No Have Account</string>
+    <string name="forgot_your_password"> Forgot Your Password </string>
+    <string name="back"> Back </string>
+    <string name="exit"> Exit </string>
+    <string name="forgot_password"> Forgot Password </string>
+    <string name="reset_password"> Reset Password </string>
+    <string name="welcome"> Welcome My Application </string>
+    <string name="input_password">Input Password</string>
+
+</resources>
